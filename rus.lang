@@ -1,0 +1,24 @@
+Русский
+form1name=Форумный кликер (by Marcus :3);
+form2name=Редактор кликера (by Marcus :3);
+form3name=Настройки кликера (by Marcus :3);
+form1button1=Редактор;
+form2newshort=Новый заголовок;
+form2newfull=Новый текст;
+form2buttonEdit=Изменить;
+form2buttonAdd=Добавить;
+form2buttonDel=Удалить;
+form2buttonCancel=Отмена;
+form2buttonSave=Сохранить;
+form2buttonClose=Закрыть редактор;
+form2labelshort=Заголовок;
+form2labelfull=Текст;
+form3button1=Закачать в облако;
+form3button2=Скачать из облака;
+form3labellogin=Логин;
+form3labelpass=Пароль;
+form3labellanf=Язык;
+form3labelerror=Ошибка приёма/передачи;
+form3labelexist=Такое имя уже занято;
+form3labelfilledits=Заполните поля;
+form3labelsuccess=Успешно;

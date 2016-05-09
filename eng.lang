@@ -1,0 +1,24 @@
+English
+form1name=Forum Clicker (by Marcus :3);
+form2name=Clicker Editor (by Marcus :3);
+form3name=Clicker Settings (by Marcus :3);
+form1button1=Editor;
+form2newshort=New header;
+form2newfull=New text;
+form2buttonEdit=Edit;
+form2buttonAdd=Add;
+form2buttonDel=Delete;
+form2buttonCancel=Cancel;
+form2buttonSave=Save;
+form2buttonClose=Close Editor;
+form2labelshort=Header;
+form2labelfull=Text;
+form3button1=Upload to cloud storage;
+form3button2=Download from cloud storage;
+form3labellogin=Login;
+form3labelpass=Pass;
+form3labellanf=Language;
+form3labelerror=FTP Error;
+form3labelexist=This name already exists;
+form3labelfilledits=Fill all fields;
+form3labelsuccess=Success;
